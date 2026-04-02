@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Zia Urrahman
-**A passionate Data Scientist || Data analyst || Kafka Admin from India**
+**A passionate Data Scientist || Data analyst**
 
 Email Me 👉 ✉️ **zia318580@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
