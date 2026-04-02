@@ -1,4 +1,18 @@
+# 💫 Hi 👋, I'm Zia Urrahman
+**A passionate Data Scientist || Data analyst || Kafka Admin from India**
 
+Email Me 👉 ✉️ **zia318580@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** a house price prediction model 
+- 🌱 **I’m currently learning:** Data Science
+- 👯 **I’m looking to collaborate on:** Open-source Data Science libraries or Python-based automation tools.
+- 🤔 **I’m looking for help with:** Mastering advanced statistics or SQL for data analysis.
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** zia318580@gmail.com
+- 😄 **Pronouns:** Zia Urrahman Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+## 🔗 I am a Data Enthusiast. 😊😊
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zia.urrahman.597311) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zia-ur-rahman-37a15325a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zia318580@gmail.com) 
 
